@@ -1,0 +1,13 @@
+{
+  "name": "clean-cli",
+  "owner": {
+    "name": "João Paulo"
+  },
+  "plugins": [
+    {
+      "name": "clean-cli",
+      "source": "./"
+    }
+  ],
+  "description": "A mod that makes Claude Code minimal"
+}

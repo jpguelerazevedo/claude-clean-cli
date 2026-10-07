@@ -1,0 +1,9 @@
+{
+  "name": "clean-cli",
+  "version": "0.14.0",
+  "author": {
+    "name": "João Paulo"
+  },
+  "description": "Makes Claude Code minimal: progress bars per step, code changes in boxes, short answers and a /o model and effort menu",
+  "types": "./types/index.d.ts"
+}
