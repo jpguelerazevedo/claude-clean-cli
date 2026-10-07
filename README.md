@@ -34,7 +34,7 @@ You can also click `… N more lines` under a box to expand just that one.
 In Claude Code, in the terminal:
 
 ```
-/plugin install clean-cli --marketplace <your-user>/claude-clean-cli
+/plugin install clean-cli --marketplace jpguelerazevedo/claude-clean-cli
 ```
 
 Answer `y` to add the marketplace, then pick a scope.
