@@ -4,7 +4,7 @@ A Claude Code mod that makes the terminal minimal: less noise, only what matters
 
 ## Demo
 
-![clean-cli demo](docs/demo.gif)
+<img width="800" height="450" alt="demo" src="https://github.com/user-attachments/assets/42ecb7ea-f5e1-47e1-a8e6-704b18293d13" />
 
 ## Features
 
