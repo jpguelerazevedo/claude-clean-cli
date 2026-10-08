@@ -2,15 +2,9 @@
 
 A Claude Code mod that makes the terminal minimal: less noise, only what matters.
 
-## Screenshots
+## Demo
 
-Each tool call becomes one step with a progress bar:
-
-![Step with progress bar](docs/steps.png)
-
-Short answers with colors (green for what worked, red for what failed), and the code of each change in a box:
-
-![Answer and code box](docs/answer.png)
+![clean-cli demo](docs/demo.gif)
 
 ## Features
 
